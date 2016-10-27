@@ -1,0 +1,50 @@
+Exercice 1 :
+
+2/Des repertoires "caché "  : .git/, ./ ,  ../
+
+3/ Nous avons crée un fichier : fichier.txt dans le répertoire
+
+4/ Le message nous informe qu'il n'y a rien à commit 
+
+5/ Le message nous informe les modification seront validées et les commandes qui permettent pour desindexer
+
+6/ git commit "C'est terrible"
+
+7/ rien à valider, tout est propre
+
+8/ Il affiche le nom du commit , sa date ainsi que le message en question et l'auteur
+
+9/ Il affiche la modification, sans les commiter.
+
+Exercice 2 :
+
+1/
+2/
+3/ 
+4/ IL nous affiché les différents commit avec les différentes branches 
+5/
+6/ IL y a un conflit de fusion, cela a échoué 
+
+
+
+Exerice 4
+
+Voir makefile
+
+
+Exercie 5
+2/ IL affiche le Hello you et toutes les erreurs et d'allocation
+
+3/ A la fin de fonction, nous avons aucune mémoire alloué. Pendant la fonction nous avons aucune allocation et donc aucune libération nécéssaire.Tout est libre et il n'y a aucune erreur.
+
+5/ Il y a des erreurs à partir de la ligne 6. Il nous renseigne sur les erreurs faites. Il donne aussi des conseils pour résourdre les erreurs.
+
+6/ Il n'y a pas de malloc on en ajoute un 
+
+7/ L'erreur residait dans le fait de placer le free avant le parcours ce qui faisait qu'il n'y avait plus rien à parcourir.
+
+8/  Il n'y pas d'erreur mais des problèmes de mémoire non libéré.
+9/ IL n'y a pas de ligne fautive du coup.
+10/  On ajoute free(p)
+
+
